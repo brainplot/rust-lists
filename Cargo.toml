@@ -1,5 +1,5 @@
 [package]
-name = "too-many-lists"
+name = "rust-lists"
 version = "0.1.0"
 authors = ["Gianluca Recchia <gianluca.recchia97@gmail.com>"]
 edition = "2018"
